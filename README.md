@@ -1,6 +1,6 @@
 # Programerske naloge
 
-Tukaj se nahajajo vse programske naloge za clane Programerskega kluba Ljubljana.
+Tukaj se nahajajo vse programske naloge za clane in bodoče trenerje Programerskega kluba Ljubljana.
 
 Naloge so napisane v python funkcijah ki so testirane z pydoc komentarji.
 Naloge se lahko prevede v kateri koli programski jezik preko python parserja in knjižnice
